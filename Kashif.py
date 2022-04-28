@@ -1,2 +1,2 @@
-from Jadu import Jadu
-Jadu()
+from Jadu import kallu
+kallu()
